@@ -1,4 +1,4 @@
 # self-project
 This is my first repository.
-<b>
+<br>
 Author - Aaryan Nandan
